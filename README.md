@@ -1,0 +1,2 @@
+# intergalakticke_zavislosti
+zavislosti
