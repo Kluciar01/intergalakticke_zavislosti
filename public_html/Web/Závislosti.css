@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  
+}
+h3 {
+  color: white ;
+  text-align: center;
+  font-size:80px;
+}
+h2 {
+  color: black ;
+  margin-left: 20px;
+  font-size:80px;
+}
+
+img {
+    
+ text-align: center; 
+}
+
+li { 
+  color: black;
+  margin-left: 40px;
+  font-size: 40px;
+ }
+
+
+p {
+  color: black;
+  margin-left: 1px;
+  font-size: 40px;
+}
+
+
+a { 
+  color: black;
+  margin-left:10px;
+  font-size: 40px;
+  }
